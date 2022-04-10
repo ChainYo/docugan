@@ -1,3 +1,6 @@
 __pycache__
 logs/
 wandb/
+CarsGAN/
+docugan/
+Stanford Cars Dataset/
