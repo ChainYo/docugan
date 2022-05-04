@@ -5,3 +5,4 @@ CarsGAN/
 docugan/
 Stanford Cars Dataset/
 generated/
+notebooks/** linguist-vendored
